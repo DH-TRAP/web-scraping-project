@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapping-movies",
+  "version": "1.0.0",
+  "description": "A website scraping project made strictly for eductional and learning purpose. [NOTE:No intentions of damaging or disturbing or misusing any kind of resource or service provided any platform or website.] (**ALL RIGHTS RESERVED BY imdb.com)",
+  "main": "scrap.js",
+  "scripts": {
+    "start": "node scrap.js",
+    "dev": "nodemon scrap.js"
+  },
+  "keywords": [],
+  "author": "DP",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "superagent": "^8.0.9"
+  }
+}
