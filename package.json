@@ -1,6 +1,6 @@
 {
   "name": "web-scrapping-movies",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "A website scraping project made strictly for eductional and learning purpose. [NOTE:No intentions of damaging or disturbing or misusing any kind of resource or service provided any platform or website.] (**ALL RIGHTS RESERVED BY imdb.com)",
   "main": "scrap.js",
   "scripts": {
